@@ -1,0 +1,20 @@
+{
+  "description": "This NFT proves that I have deploed an ERC721 Smart Contract on Goeli testnet", 
+  "external_url": "https://alchemy.com", 
+  "image": "https://ipfs.filebase.io/ipfs/QmcsHtPJonXCPsCJy1izePZRdY3gmJQXye8pVkVGx9udP7", 
+  "name": "Ozriel",
+  "attributes": [
+    {
+      "trait_type": "Coolness", 
+      "value": "A lot"
+    }, 
+    {
+      "trait_type": "Website", 
+      "value": "alchemy.com"
+    }, 
+    {
+      "trait_type": "Token standard", 
+      "value": "ERC721"
+    }
+  ]
+}
